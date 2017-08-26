@@ -1,5 +1,5 @@
 {
-  "name": "ls",
+  "name": "mesh",
   "version": "1.0.0",
   "description": "The Mesh interview task is to write a simple server that is integrated with the GitHub API. It can be written in whatever language you are most comfortable with. You can find all GitHub documentation at the following URL.",
   "main": "index.js",
