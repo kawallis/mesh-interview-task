@@ -1,0 +1,28 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "The Mesh interview task is to write a simple server that is integrated with the GitHub API. It can be written in whatever language you are most comfortable with. You can find all GitHub documentation at the following URL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawallis/mesh-interview-task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kawallis/mesh-interview-task/issues"
+  },
+  "homepage": "https://github.com/kawallis/mesh-interview-task#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "request-promise": "^4.2.1"
+  },
+  "devDependencies": {
+    "body-parser": "^1.17.2",
+    "morgan": "^1.8.2",
+    "request": "^2.81.0"
+  }
+}
